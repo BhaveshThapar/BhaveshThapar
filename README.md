@@ -12,16 +12,19 @@ Currently, I’m seeking **Software Engineering or Machine Learning Engineering 
 Python · Java · C++ · JavaScript · TypeScript · SQL · Rust · Bash · OCaml · R
 
 ### 🌐 Web & App Development  
-React.js · Next.js · Node.js · Express.js · Spring Boot · Flask · FastAPI · Vite · Tailwind CSS · Bootstrap · Context API · React Router · Jest
+React.js · Next.js · Node.js · Express.js · Spring Boot · Flask · FastAPI · Django · GraphQL · REST APIs · Vite · Tailwind CSS · Jest
 
 ### 🧠 Machine Learning & AI  
 scikit-learn · TensorFlow · PyTorch · Keras · Hugging Face Transformers · Pandas · NumPy · Matplotlib · Seaborn · TF-IDF · Clustering · Entity Recognition · LLMs (Gemini, OpenAI)
 
 ### 🗄️ Databases & Data Tools  
-PostgreSQL · MongoDB · MySQL · Supabase · Firebase · NoSQL
+PostgreSQL · MongoDB · MySQL · Redis · Supabase · Firebase · NoSQL · ACID Transactions · ORM Optimization
 
 ### ⚙️ DevOps & Deployment  
-Docker · Git · GitHub · GitHub Actions · AWS EC2/S3 · REST APIs · CI/CD · Vercel · Railway · Netlify · Linux · VS Code · Postman
+Docker · Kubernetes · Git · GitHub Actions · AWS EC2/S3 · CI/CD · Linux · Vercel · Railway · Netlify · Postman · Prometheus · Grafana · Microservices · Distributed Systems · System Design · Asynchronous Processing
+
+🔐 Security
+JWT Authentication · OAuth 2.0 · API Security Best Practices
 
 ### 🔍 Data Collection & Web Scraping  
 BeautifulSoup · Selenium · PRAW · ChromeDriver
