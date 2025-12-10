@@ -9,7 +9,7 @@ Currently, I’m seeking **Software Engineering or Machine Learning Engineering 
 ## 🛠️ What I Work With
 
 ### 💻 Languages  
-Python · Java · C++ · JavaScript · TypeScript · SQL · Rust · Bash · OCaml · R
+Python · Java · C++ · C# · JavaScript · TypeScript · SQL · C · Assembly (AVR) · Rust · Bash · OCaml · R
 
 ### 🌐 Web & App Development  
 React.js · Next.js · Node.js · Express.js · Spring Boot · Flask · FastAPI · Django · GraphQL · REST APIs · Vite · Tailwind CSS · Jest
