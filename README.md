@@ -33,7 +33,13 @@ BeautifulSoup · Selenium · PRAW · ChromeDriver
 
 ## 💡 Projects I'm Proud Of
 
-### 🧠 [UMD Professor Analyzer](https://github.com/BhaveshThapar/UMD-Professor-Analyzer)  
+### 💻 LLM Gateway
+A production-grade, multi-tenant API gateway for managing, optimizing, and observing large language model (LLM) usage at scale
+- Built with Java, Spring Boot, PostgreSQL, Redis, pgvector, and Docker
+- Reduces LLM API costs by 40–60% through exact-match and semantic caching with vector similarity search
+- Provides real-time analytics, cost tracking, budget alerts, and rate limiting across multiple LLM providers
+
+### 🧠 [UMD Professor Analyzer](https://umd-professor-analyzer.vercel.app/)  
 An AI-powered platform that helps UMD students explore professors using live data and natural language analysis  
 - Built with React, Spring Boot, FastAPI, PostgreSQL, and Docker Compose  
 - Scrapes 15K+ reviews from Reddit, Coursicle, and RateMyProfessors  
@@ -44,12 +50,6 @@ A personalized fitness app that delivers workout and meal plans using real machi
 - Built with React, Flask, Supabase, and scikit-learn  
 - Recommends content using TF-IDF, clustering, and multi-factor scoring  
 - <350ms response time and 87% top-3 relevance in user testing  
-
-### 🍽️ [Restaurant Recommendation Bot](https://restaurant-recommendation-bot.vercel.app/)  
-A conversational AI that gives restaurant and dish recommendations using real-time Reddit and web data  
-- Built with Next.js 14, TypeScript, Tailwind CSS, and Gemini AI  
-- Can compare restaurants, suggest dishes, and pull in real reviews on the fly  
-
 ---
 
 ## 🚀 What I'm Passionate About
